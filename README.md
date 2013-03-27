@@ -68,6 +68,10 @@ Peer discovery and music sharing will be done via UPnP, probably using one of th
  - [CyberLink](http://www.cybergarage.org/twiki/bin/view/Main/CyberLinkForJava)
  - [OhNet](http://www.openhome.org/wiki/OhNet)
 
+Also worth noting:
+
+ - [subsonic](http://www.subsonic.org/)
+
 I'm hoping the metadata sections of UPnP can be extended.  People will
 generally have rated only a small sample of music, and we'll want to
 predict their opinion of other songs using more metadata than the
