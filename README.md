@@ -93,6 +93,7 @@ another communications channel?
 
 Here are some proprietary UPnP apps.  They'll be useful for testing and for feature ideas.
 
+ - [Pixel Media Server](https://play.google.com/store/apps/details?id=com.cmc.dms)
  - [BubbleUPnP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)
  - [Andromote](https://play.google.com/store/apps/details?id=de.czesla.android.remote) (control point only)
  - [EML UPnP-AV Control Point](http://www.appbrain.com/app/eml-upnp-av-control-point/org.eml.upnp) (control point only)
